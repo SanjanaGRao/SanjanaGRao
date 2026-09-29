@@ -9,7 +9,7 @@ Building products at the intersection of engineering, AI and clean execution.
 
 ### About Me
 
-I'm a Project Manager and engineer with roughly three years of experience across Technical Project Management, Product Management and Software Engineering. I recently completed my MS in Engineering Management at Northeastern University and I'm actively pursuing full-time PM, TPM and Program Manager roles.
+I'm a Project Manager and engineer with roughly three years of experience across Technical Project Management, Product Management and Software Engineering. I recently completed my MS in Engineering Management at Northeastern University and I'm actively open to full-time Technical Project Manager, Product Manager and Program Manager roles.
 
 Outside of my day-to-day, I work as a Project Manager for Content Operations team at Humanitarians AI, where I run the YouTube fellowship program and lead the team building tools to automate our content publishing pipeline.
 
