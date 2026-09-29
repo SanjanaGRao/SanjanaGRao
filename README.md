@@ -46,6 +46,34 @@ Outside of my day-to-day, I work as a Project Manager for Content Operations tea
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
+## AI and Generative AI
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[VoltAI: Smart Assistant for Vehicles](https://github.com/SanjanaGRao/VoltAI-Smart-Assistant-for-Vehicles)** | In-vehicle assistant combining LLMs, multi-agent orchestration and live weather intelligence to deliver real-time diagnostics, predictive maintenance and driver-facing guidance through a conversational interface. | Python, LLMs, multi-agent orchestration, weather APIs |
+| **[GenBI: AI Assistant for Business Intelligence](https://github.com/SanjanaGRao/GenBI-The-AI-Assistant-for-Business-Intelligence)** | Conversational GenAI assistant that answers business questions in natural language, runs the underlying analysis on structured data and generates insight visualizations. Bridges the gap between business users and BI teams. | Python, GenAI, OpenAI APIs, data visualization |
+
+---
+
+## Product Management
+
+| Project | Description | Deliverables |
+| --- | --- | --- |
+| **[Bro-Car](https://github.com/SanjanaGRao/Bro-Car-An-App-That-Connects-Car-Buyers-and-Sellers)** | Digital product concept connecting used-car buyers and sellers directly. Covered the full PM workflow from market research to feature scoping, with a focus on trust signals between buyer and seller. | MRD, PRD, feature spec |
+| **[Redefining Headspace for Neurodivergent Users](https://github.com/SanjanaGRao/Redefining-Headspace-App-for-Neurodivergent-Users)** | Protothon 6.0 hackathon project reimagining the Headspace app for neurodivergent users. Focused on accessibility patterns, cognitive load reduction and simplified user flows. | Problem framing, redesigned UX flows, prototype |
+
+---
+
+## Data Analysis and Visualization
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[EV Population Analysis, Washington State](https://github.com/SanjanaGRao/EV-Vehicle-Population-Analysis-in-Washington-State)** | Analysis of electric vehicle adoption patterns using Washington State DOL registration data. Surfaces distribution trends, county-level penetration and the factors driving adoption. | Python, Tableau, pandas |
+| **[Health Profiles in the USA](https://github.com/SanjanaGRao/Analysis-of-Health-Profiles-in-the-USA)** | Public-health data visualization work aimed at making health outcomes across the USA accessible and actionable for targeted interventions. | Python, Tableau, pandas |
+
+Also on the profile, additional coursework projects across statistical analysis, business intelligence and product research. See the [full repo list](https://github.com/SanjanaGRao?tab=repositories) for the rest.
+
+---
 
 ### Certifications
 
@@ -62,7 +90,6 @@ Outside of my day-to-day, I work as a Project Manager for Content Operations tea
 </p>
 
 ---
-
 
 <!--
 **SanjanaGRao/SanjanaGRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
