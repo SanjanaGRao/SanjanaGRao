@@ -11,7 +11,7 @@ Building products at the intersection of engineering, AI and clean execution.
 
 I'm a Project Manager and engineer with roughly three years of experience across Technical Project Management, Product Management and Software Engineering. I recently completed my MS in Engineering Management at Northeastern University and I'm actively pursuing full-time PM, TPM and Program Manager roles.
 
-Outside of my day-to-day, I volunteer as a Project Manager at Humanitarians AI, a 501(c)(3) nonprofit, where I run the YouTube fellowship program and lead the team building tools to automate our content publishing pipeline.
+Outside of my day-to-day, I work as a Project Manager for Content Operations team at Humanitarians AI, where I run the YouTube fellowship program and lead the team building tools to automate our content publishing pipeline.
 
 ---
 
@@ -63,9 +63,6 @@ Outside of my day-to-day, I volunteer as a Project Manager at Humanitarians AI, 
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SanjanaGRao&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sanjana's GitHub stats" />
-</p>
 
 <!--
 **SanjanaGRao/SanjanaGRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
